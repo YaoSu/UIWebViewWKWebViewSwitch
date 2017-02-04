@@ -1,1 +1,4 @@
 # UIWebViewWKWebViewSwitch
+在工程中无缝适配WKWebView。沿用UIWebView的接口及调用方法使用WKWebView，在iOS7及以下使用UIWebview，在iOS8及以上自动使用WKWebview。
+## 使用方法
+直接将文件加到工程目录即可。
